@@ -1,6 +1,6 @@
 # Joint Transmit and Pinching Beamforming for Pinching Antenna Systems (PASS): Optimization-Based or Learning-Based?
 This is PyTorch code implementation for ML algorithm in paper "Joint Transmit and Pinching Beamforming for Pinching Antenna Systems (PASS): Optimization-Based or Learning-Based?", 
-accepted by IEEE Transactions on Wireless Communications (TWC) (Preprint is available at [https://arxiv.org/abs/2502.08637](https://arxiv.org/abs/2502.08637))
+published by IEEE Transactions on Wireless Communications (TWC) ([https://ieeexplore.ieee.org/document/11371592](https://ieeexplore.ieee.org/document/11371592)) [[Preprint](https://arxiv.org/abs/2502.08637)]
 
 This repository contains the reproducible training demo of the proposed **KKT-guided dual-learning (KDL) Transformer**, which provides a novel machine learning (ML) empowered **joint transmit beamforming and pinching beamforming** 
 method. 
@@ -25,4 +25,4 @@ KDL is a novel learning-to-optimize (L2O) paradigm that combines the strengths o
 
 ## Reference
 If you find this code useful for your research, please consider citing 
-> X. Xu, X. Mu, Y. Liu, and A. Nallanathan, ``Joint Transmit and Pinching Beamforming for Pinching Antenna Systems (PASS): Optimization-Based or Learning-Based?'', *IEEE Trans. Wireless Commun.*, accepted, 2026. 
+> X. Xu, X. Mu, Y. Liu, and A. Nallanathan, ``Joint Transmit and Pinching Beamforming for Pinching Antenna Systems (PASS): Optimization-Based or Learning-Based?'', *IEEE Trans. Wireless Commun.*, early access, 2026. 
